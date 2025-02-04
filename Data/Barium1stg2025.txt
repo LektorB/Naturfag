@@ -1,4 +1,4 @@
-﻿Vernier Format 2
+﻿Vernier Format 2 # Bakgrunn = 2.5
 Untitled.cmbl 03.02.2025 08:34:21 ,
 Latest
 Time	Radiation
